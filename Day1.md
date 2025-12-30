@@ -17,11 +17,11 @@ Because C/C++ are compiled languages.when we write code in C/C++,it directly con
 - Pros: very fast and efficient
 - cons:No portability,manual memory management,&Unsafe operations(pointers,bufferflows)
 ## Why only Java?
--Java code is first compiled into bytecode,not direct machine code.
--This bytecode runs on the Java virtual machine(JVM),which interprets it for your specific system.
--Because JVM exists on almost every platform,the same Java program can run anywhere without modification.
--pros: platform-independent,safer,automatic memory management.
--cons: slightly slower than direct machine code(through JIT compiler).
+- Java code is first compiled into bytecode,not direct machine code.
+- This bytecode runs on the Java virtual machine(JVM),which interprets it for your specific system.
+- Because JVM exists on almost every platform,the same Java program can run anywhere without modification.
+- pros: platform-independent,safer,automatic memory management.
+- cons: slightly slower than direct machine code(through JIT compiler).
 ## What
 
 
