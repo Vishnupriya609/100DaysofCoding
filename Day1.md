@@ -4,14 +4,16 @@
 ## History of Java
 - Founder of java-ScotMcnealy.
 - 1991-Java began as the green project at sun microsystems,led by james gosling.
-The goal was to create a language for embedding & electronic devices.
-The first version of language was called Oak.
-1995-Oak was renamed Java,inspired by coffee.
-Java was official released & became popular because of its platform independence & web support.
-Java gained wide acceptance for web applications & enterprise applications
-2006-Sun microsystems made open source 
-later oracle corporation acquired sun microsystems & became the maintainer of java.
-Today,Java is widely used in android apps,web servers,enterprise systems,&cloud computing.
+- The goal was to create a language for embedding & electronic devices.
+- The first version of language was called Oak.
+- 1995-Oak was renamed Java,inspired by coffee.
+- Java was official released & became popular because of its platform independence & web support.
+- Java gained wide acceptance for web applications & enterprise applications
+- 2006-Sun microsystems made open source 
+- Later oracle corporation acquired sun microsystems & became the maintainer of java.
+- Today,Java is widely used in android apps,web servers,enterprise systems,&cloud computing.
+## why Only Java?
+Because C/C++ are compiled languages.when we write code in C/C++,it directly converted into machinecode by a compiler.This machine code is specific to the os and hardware.Then it make security isuues.
 
 
 
