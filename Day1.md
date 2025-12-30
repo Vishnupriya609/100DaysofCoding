@@ -22,6 +22,16 @@ Because C/C++ are compiled languages.when we write code in C/C++,it directly con
 - Because JVM exists on almost every platform,the same Java program can run anywhere without modification.
 - pros: platform-independent,safer,automatic memory management.
 - cons: slightly slower than direct machine code(through JIT compiler).
+## Interview Questions
+1. Why java is not purely object-oriented language?
+A. Because it supports primitive data types like int,string,float,double etc.which are not objects.That's why java is not purely object oriented language.
+
+2. Which one is first?object or class?
+A. Object is first as  we can't create class without having prior knowledge of an object.
+
+3. Why should i learn java?
+A. It is general-purpose programming language like we can create Desktop applications,web applications,embedded systems etc.
+
 ## What is JVM?
 - The JVM is a Virtual machine that runs java programs.when you write java code:
 1. You write .java files (source code).
