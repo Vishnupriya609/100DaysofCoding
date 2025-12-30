@@ -2,7 +2,7 @@
 Java is highlevel,general purpose,class-based,object-oriented programming language.
 It is platform-independence,portability,robust&security,multi-threading,memory management.
 ## History of Java
-Founder of java-ScotMcnealy.
+# Founder of java-ScotMcnealy.
 1991-Java began as the green project at sun microsystems,led by james gosling.
 The goal was to create a language for embedding & electronic devices.
 The first version of language was called Oak.
