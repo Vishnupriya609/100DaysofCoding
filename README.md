@@ -2,7 +2,7 @@
 
 Welcome to my 100 Days of Coding Challenge focused on Java and Data Structures & Algorithms (DSA) with youtube videos & Chatgpt. The goal of this challenge is to build strong problem-solving skills, master Java fundamentals, and become confident in DSA through daily consistent practice.
 
-📌 Challenge Rules
+## 📌 Challenge Rules
 
 - Code every day for 100 days without breaks
 
@@ -12,7 +12,7 @@ Welcome to my 100 Days of Coding Challenge focused on Java and Data Structures &
 
 Focus on logic, consistency, and improvement
 
-🛠️ Tech Stack
+## 🛠️ Tech Stack
 
 - Language: Java
 
@@ -20,7 +20,7 @@ Focus on logic, consistency, and improvement
 
 - Platform: LeetCode, HackerRank, CodeStudio
 
-🧠 What I Will Learn
+## 🧠 What I Will Learn
 
 - Java Fundamentals
 
@@ -34,6 +34,6 @@ Focus on logic, consistency, and improvement
 
 - Interview Preparation
   
-📅 RoadMap <br>
+## 📅 RoadMap <br>
 
 ♦ Day 1:About java,history,why only java?
