@@ -22,7 +22,10 @@ Because C/C++ are compiled languages.when we write code in C/C++,it directly con
 - Because JVM exists on almost every platform,the same Java program can run anywhere without modification.
 - pros: platform-independent,safer,automatic memory management.
 - cons: slightly slower than direct machine code(through JIT compiler).
-## What
+## What is JVM?
+- The JVM is a Virtual machine that runs java programs.when you write java code:
+1.You write .java files (source code).
+2.Java compiler(javac) converts it into bytecode (class,files),
 
 
 
