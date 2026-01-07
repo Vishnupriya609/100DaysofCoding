@@ -1,4 +1,4 @@
-# 📘 DAY 1: Java – Purpose,
+# 📘 DAY 1: Java – Purpose,Architecture
 
 ---
 
