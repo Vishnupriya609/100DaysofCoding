@@ -102,3 +102,112 @@ Optimization	No	Yes
 
 Bytecode → Machine Code (at runtime)
 
+### 1️⃣ Java SE – Standard Edition
+#### 🔹 What is Java SE?
+
+Java SE is the core Java platform.
+It provides the basic features required to develop general-purpose applications.
+
+#### 🔹 Purpose
+
+Foundation of Java
+
+Used by beginners
+
+Base for all other editions
+
+#### 🔹 Key Features
+
+Core language features
+
+Object-Oriented Programming
+
+JVM, JDK, JRE
+
+Exception handling
+
+Collections Framework
+
+Multithreading
+
+File handling
+
+#### 🔹 Applications
+
+Desktop applications
+
+Standalone programs
+
+Utility software
+
+📌 Every Java developer starts with Java SE.
+
+### 2️⃣ Java EE – Enterprise Edition
+
+(Now called Jakarta EE)
+
+#### 🔹 What is Java EE?
+
+Java EE is used to develop large-scale, enterprise-level applications.
+
+#### 🔹 Purpose
+
+Build web and enterprise applications
+
+Used in banks, hospitals, government systems
+
+#### 🔹 Built On
+
+➡ Java SE + enterprise technologies
+
+#### 🔹 Key Technologies
+
+Servlets
+
+JSP
+
+EJB
+
+JPA
+
+Web services
+
+#### 🔹 Applications
+
+Banking systems
+
+E-commerce platforms
+
+Enterprise portals
+
+📌 Java EE supports distributed, secure, and scalable applications.
+
+### 3️⃣ Java ME – Micro Edition
+#### 🔹 What is Java ME?
+
+Java ME is designed for small, resource-constrained devices.
+
+#### 🔹 Purpose
+
+Run Java on devices with:
+
+Low memory
+
+Low processing power
+
+#### 🔹 Devices
+
+Embedded systems
+
+IoT devices
+
+Feature phones
+
+Smart cards
+
+#### 🔹 Key Features
+
+Lightweight Java APIs
+
+Limited functionality compared to Java SE
+
