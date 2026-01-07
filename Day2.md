@@ -33,29 +33,26 @@ Storing it in memory
 Reusing it whenever needed
 
 ### 4️⃣ JVM Execution Without JIT
-Bytecode
+Bytecode <br>
    ↓
-Interpreter
+Interpreter <br>
    ↓
-Machine Code
+Machine Code <br>
    ↓
 Execution
-
 
 ❌ Slower (repeated conversion)
 
 ### 5️⃣ JVM Execution With JIT
-Bytecode
+Bytecode <br>
    ↓
-Interpreter (initially)
+Interpreter (initially) <br>
    ↓
-JIT Compiler (hot code)
+JIT Compiler (hot code) <br>
    ↓
-Native Machine Code
+Native Machine Code <br>
    ↓
 Fast Execution
-
-
 * ✔ Faster
 * ✔ Optimized
 * ✔ Efficient
