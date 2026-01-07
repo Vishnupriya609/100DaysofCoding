@@ -56,9 +56,9 @@ Native Machine Code
 Fast Execution
 
 
-✔ Faster
-✔ Optimized
-✔ Efficient
+* ✔ Faster
+* ✔ Optimized
+* ✔ Efficient
 
 ### 6️⃣ What is “Hot Code”?
 
