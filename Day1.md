@@ -80,7 +80,7 @@ Companies using Python:
 
 - Development faster
   
-## Python Architecture
+## 6️⃣ Python Architecture
 
 ### When you run a Python program:
 
