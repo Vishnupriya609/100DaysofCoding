@@ -59,12 +59,12 @@ Companies using Python:
 - Portable
 
 - Free & Open-source
-## Problem solved by python
-Python solved the problem of:
+## 5️⃣ Problem solved by python
+### Python solved the problem of:
 
 👉 Complex and hard-to-read code in older languages like C and C++.
 
-Before Python:
+#### Before Python:
 
 - Code was long
 
@@ -72,10 +72,34 @@ Before Python:
 
 - Development was slow
 
-Python made:
+#### Python made:
 
 - Code shorter
 
 - Syntax simple
 
 - Development faster
+  
+## Python Architecture
+
+### When you run a Python program:
+
+Step 1:
+
+You write:
+```
+print("Hello")
+```
+Step 2:
+
+Python Interpreter converts it into Bytecode
+
+Step 3:
+
+Bytecode runs on PVM (Python Virtual Machine)
+
+📌 Flow:
+
+Source Code → Interpreter → Bytecode → PVM → Output
+
+This is why Python is called an Interpreted Language.
