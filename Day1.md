@@ -48,3 +48,34 @@ Companies using Python:
 - Netflix
 
 - Instagram
+## 4️⃣ Features of Python
+
+- Interpreted language
+
+- Object-Oriented
+
+- Dynamically typed
+
+- Portable
+
+- Free & Open-source
+## Problem solved by python
+Python solved the problem of:
+
+👉 Complex and hard-to-read code in older languages like C and C++.
+
+Before Python:
+
+- Code was long
+
+- Syntax was complicated
+
+- Development was slow
+
+Python made:
+
+- Code shorter
+
+- Syntax simple
+
+- Development faster
