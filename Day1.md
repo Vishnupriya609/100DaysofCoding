@@ -84,17 +84,17 @@ Companies using Python:
 
 ### When you run a Python program:
 
-Step 1:
+#### Step 1:
 
 You write:
 ```
 print("Hello")
 ```
-Step 2:
+#### Step 2:
 
 Python Interpreter converts it into Bytecode
 
-Step 3:
+#### Step 3:
 
 Bytecode runs on PVM (Python Virtual Machine)
 
