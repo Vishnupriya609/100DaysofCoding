@@ -35,11 +35,11 @@ Example:
 
 Python is popular because:
 
-✔ Easy syntax
-✔ Large community support
-✔ Huge libraries
-✔ Used in AI & Machine Learning
-✔ Fast development time
+✔ Easy syntax <br>
+✔ Large community support <br>
+✔ Huge libraries <br>
+✔ Used in AI & Machine Learning<br>
+✔ Fast development time<br>
 
 Companies using Python:
 
