@@ -1,12 +1,12 @@
 🎤 DAY 1 PYTHON INTERVIEW QUESTIONS (WITH ANSWERS)
-1️⃣ Why is Python called an interpreted language if it generates bytecode?
+#### 1️⃣ Why is Python called an interpreted language if it generates bytecode?
 
 Answer:
 Python first converts source code into bytecode, then executes it using PVM (Python Virtual Machine).
 
 It is called interpreted because execution happens at runtime through the interpreter — not directly as machine code like C.
 
-2️⃣ What happens internally when you run a Python program?
+#### 2️⃣ What happens internally when you run a Python program?
 
 Answer:
 Flow:
@@ -17,7 +17,7 @@ Compiler creates .pyc file (bytecode)
 
 PVM executes the bytecode
 
-3️⃣ Why doesn’t Python need explicit data type declaration?
+#### 3️⃣ Why doesn’t Python need explicit data type declaration?
 
 Answer:
 Because Python is dynamically typed.
@@ -28,12 +28,14 @@ Example:
 
 x = 10      # int
 x = "Hi"    # now string
-4️⃣ What is the difference between compiled and interpreted languages?
+
+#### 4️⃣ What is the difference between compiled and interpreted languages?
 Compiled	Interpreted
 Converted fully to machine code	Executed line by line
 Faster execution	Slower than compiled
 Example: C	Example: Python
-5️⃣ Why does Python use indentation instead of braces?
+
+#### 5️⃣ Why does Python use indentation instead of braces?
 
 Answer:
 To enforce readable and clean code.
@@ -43,7 +45,7 @@ Code is read more often than written.
 
 (Python forces structure through indentation.)
 
-6️⃣ What makes Python slower than C?
+#### 6️⃣ What makes Python slower than C?
 
 Answer:
 
@@ -55,17 +57,17 @@ Extra abstraction layer
 
 Automatic memory management
 
-7️⃣ Is Python truly platform independent? Explain.
+#### 7️⃣ Is Python truly platform independent? Explain.
 
 Answer:
 Yes. Python code runs on any OS (Windows, Linux, Mac) as long as a Python interpreter is installed.
 
-8️⃣ What is the role of PVM?
+####  8️⃣ What is the role of PVM?
 
 Answer:
 PVM (Python Virtual Machine) executes bytecode and interacts with the system to produce output.
 
-9️⃣ Why is Python considered both object-oriented and procedural?
+#### 9️⃣ Why is Python considered both object-oriented and procedural?
 
 Answer:
 Because it supports:
@@ -74,7 +76,7 @@ Functions (procedural style)
 
 Classes & Objects (OOP style)
 
-🔟 Can Python be used for system-level programming? Why or why not?
+#### 🔟 Can Python be used for system-level programming? Why or why not?
 
 Answer:
 Not ideal for low-level system programming because:
@@ -84,7 +86,7 @@ Slower than C
 No direct memory control
 But it can be used for scripting and automation.
 
-🎯 Very Strong Interview Question
+#### 🎯 Very Strong Interview Question
 
 Q: Why is Python so popular despite being slower than C/C++?
 
