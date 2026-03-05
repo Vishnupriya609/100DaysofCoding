@@ -1,4 +1,4 @@
-🎤 DAY 1 PYTHON INTERVIEW QUESTIONS (WITH ANSWERS)
+# 🎤 DAY 1 PYTHON INTERVIEW QUESTIONS (WITH ANSWERS)
 #### 1️⃣ Why is Python called an interpreted language if it generates bytecode?
 
 Answer:
@@ -17,7 +17,7 @@ Compiler creates .pyc file (bytecode)
 
 PVM executes the bytecode
 
-#### 3️⃣ Why doesn’t Python need explicit data type declaration?
+3️⃣ Why doesn’t Python need explicit data type declaration?
 
 Answer:
 Because Python is dynamically typed.
