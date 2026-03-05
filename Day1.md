@@ -1,8 +1,26 @@
-# 📘 DAY 1: Java – Purpose,Architecture
+# Day 1: Python – Purpose, History & Architecture
 
 ---
 
-## 🔴 The Biggest Problem Before Java (ROOT PROBLEM)
+## 1️⃣ What is Python?
+
+Python is a:
+
+- High-level programming language
+
+- Easy to read & write
+
+- Beginner-friendly
+
+- Used for Web, AI, Data Science, Automation, Cybersecurity
+
+- Python code looks simple and close to English.
+
+- Example:
+      
+     ```
+     print("Hello")
+     ```
 
 ### ❌ **Platform Dependency**
 
