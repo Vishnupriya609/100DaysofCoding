@@ -14,9 +14,9 @@ Python is a:
 
 - Used for Web, AI, Data Science, Automation, Cybersecurity
 
-- Python code looks simple and close to English.
+Python code looks simple and close to English.
 
-- Example:
+Example:
       
      ```
      print("Hello")
