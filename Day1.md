@@ -5,7 +5,6 @@
 
 ## 1️⃣ What is Programming?
  ### Programming is a way to "instruct the computer to perform various tasks in a specified manner".
-     ```
 
 ## 2️⃣ why is Programming?
 ### Computer Programming is important today because so much of our world is automated.Humans need to be able to interact between the people and machines.Since Computers and machines are able to do efficiently and accurately,we use computer programming to harness that computing power.
