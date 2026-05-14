@@ -11,7 +11,7 @@
 ### Computer Programming is important today because so much of our world is automated.Humans need to be able to interact between the people and machines.Since Computers and machines are able to do efficiently and accurately,we use computer programming to harness that computing power.
 
 ## 3️⃣ Different Programming paradigms available in the market?
-### Programming paradigms is an approach to solve the problem using some programming languages.<img width="2564" height="644" alt="image" src="https://github.com/user-attachments/assets/9e1995fe-58ca-4426-9bf4-48b58c7d4c13" />
+### Programming paradigms is an approach to solve the problem using some programming languages.<img width="2564" height="644" alt="image" src="https://github.com/user-attachments/assets/2fba231d-a585-40b1-bef6-5fed5e8e4d01" />
 
 ## 4️⃣ Features of Python
 
