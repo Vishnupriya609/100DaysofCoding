@@ -11,60 +11,45 @@
 ### Computer Programming is important today because so much of our world is automated.Humans need to be able to interact between the people and machines.Since Computers and machines are able to do efficiently and accurately,we use computer programming to harness that computing power.
 
 ## 3️⃣ Different Programming paradigms available in the market?
-### Programming paradigms is an approach to solve the problem using some programming languages.<img width="2564" height="644" alt="image" src="https://github.com/user-attachments/assets/2fba231d-a585-40b1-bef6-5fed5e8e4d01" />
+### Programming paradigms is an approach to solve the problem using some programming languages. Image created from draw.io
+<img width="2564" height="644" alt="image" src="https://github.com/user-attachments/assets/2fba231d-a585-40b1-bef6-5fed5e8e4d01" />
 
-## 4️⃣ Features of Python
 
-- Interpreted language
+## 4️⃣ Different types of Programming lanaguages available in the market
+### Set of instructions following syntax rules in particular language is called Programming language.
+Example: Java,JS,Python,Matlab,SQL,C++,C#,C,Pascal,PHP,Ruby
 
+# Introduction to java
+
+## 1️⃣ What is Java?
+ ### Java is object-oriented programming language to develop the all kinds of applications.
+ 
+## 2️⃣ Who is invented and when it was invented?
+
+- James Gosling is inventor of Java
+- It was invwnted i 1991 but the first version of java is released in 1996 by sun microsystems.
+- Later it is being maintained by Oracle corporation.
+- first named it "Oak" and later named it as "Java"
+
+## 3️⃣ What is full form of Java?
+### Absolutely NOthing.There is Tagline or solgan **Write Once and Run Anywhere**
+
+
+## 4️⃣ Advantages and  Disadvantages of java
+- Simple
 - Object-Oriented
+- Robust
+- Secure
+- Platform-independent
+- Disturbed
 
-- Dynamically typed
+  But UI is ** NOT Good**
 
-- Portable
 
-- Free & Open-source
-## 5️⃣ Problem solved by python
-### Python solved the problem of:
+## 5️⃣ Different technologies available in java?
+-Java SE- Develop standalone or desktop applications
+-Java EE -Develop Enterprise or web applications 
+-Java ME - Develop the mobile applications & Embedded Systems
 
-👉 Complex and hard-to-read code in older languages like C and C++.
-
-#### Before Python:
-
-- Code was long
-
-- Syntax was complicated
-
-- Development was slow
-
-#### Python made:
-
-- Code shorter
-
-- Syntax simple
-
-- Development faster
-  
-## 6️⃣ Python Architecture
-
-### When you run a Python program:
-
-#### Step 1:
-
-You write:
-```
-print("Hello")
-```
-#### Step 2:
-
-Python Interpreter converts it into Bytecode
-
-#### Step 3:
-
-Bytecode runs on PVM (Python Virtual Machine)
-
-#### 📌 Flow:
-
-Source Code → Interpreter → Bytecode → PVM → Output
-
-This is why Python is called an Interpreted Language.
+## 6️⃣ What is Core java and why it is so popular?
+### Core Java is actual kind of java programming & widely is any kind of application And it is used for software testing field.
