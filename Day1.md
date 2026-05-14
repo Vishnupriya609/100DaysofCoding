@@ -1,53 +1,18 @@
-# Day 1: Python – Purpose, History & Architecture
+# Day 1: Introduction to Programming,Introduction to Java
 
 ---
+# Introduction to Programming
 
-## 1️⃣ What is Python?
-
-Python is a:
-
-- High-level programming language
-
-- Easy to read & write
-
-- Beginner-friendly
-
-- Used for Web, AI, Data Science, Automation, Cybersecurity
-
-Python code looks simple and close to English.
-
-Example:
-      
-     ```
-     print("Hello")
+## 1️⃣ What is Programming?
+ ### Programming is a way to "instruct the computer to perform various tasks in a specified manner".
      ```
 
-## 2️⃣ History of Python
+## 2️⃣ why is Programming?
+### Computer Programming is important today because so much of our world is automated.Humans need to be able to interact between the people and machines.Since Computers and machines are able to do efficiently and accurately,we use computer programming to harness that computing power.
 
-- Created by Guido van Rossum
+## 3️⃣ Different Programming paradigms available in the market?
+### Programming paradigms is an approach to solve the problem using some programming languages.<img width="2564" height="644" alt="image" src="https://github.com/user-attachments/assets/9e1995fe-58ca-4426-9bf4-48b58c7d4c13" />
 
-- First released in 1991
-
-- Named after the comedy show
-  Monty Python's Flying Circus (not the snake 😄)
-
-## 3️⃣ Why Python? (Purpose)
-
-Python is popular because:
-
-✔ Easy syntax <br>
-✔ Large community support <br>
-✔ Huge libraries <br>
-✔ Used in AI & Machine Learning<br>
-✔ Fast development time<br>
-
-Companies using Python:
-
-- Google
-
-- Netflix
-
-- Instagram
 ## 4️⃣ Features of Python
 
 - Interpreted language
