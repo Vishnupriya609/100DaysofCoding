@@ -46,9 +46,9 @@
 
 
 ## 5️⃣ Different technologies available in java?
--Java SE- Develop standalone or desktop applications
--Java EE -Develop Enterprise or web applications 
--Java ME - Develop the mobile applications & Embedded Systems
+- Java SE- Develop standalone or desktop applications
+- Java EE -Develop Enterprise or web applications 
+- Java ME - Develop the mobile applications & Embedded Systems
 
 ## 6️⃣ What is Core java and why it is so popular?
 ### Core Java is actual kind of java programming & widely is any kind of application And it is used for software testing field.
