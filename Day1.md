@@ -16,7 +16,7 @@
 
 ## 4️⃣ Different types of Programming lanaguages available in the market
 ### Set of instructions following syntax rules in particular language is called Programming language.
-Example: Java,JS,Python,Matlab,SQL,C++,C#,C,Pascal,PHP,Ruby
+### Example: Java,JS,Python,Matlab,SQL,C++,C#,C,Pascal,PHP,Ruby
 
 # Introduction to java
 
