@@ -1,13 +1,13 @@
-# 🚀 100 Days of Coding with Python & DSA
+# 🚀 100 Days of Coding with Java & DSA
 
-Welcome to my 100 Days of Coding Challenge focused on Python and Data Structures & Algorithms (DSA) using YouTube videos & ChatGPT.
-The goal is to build strong problem-solving skills, master Python fundamentals, and become confident in DSA through daily consistent practice.
+Welcome to my 100 Days of Coding Challenge focused on Java and Data Structures & Algorithms (DSA) using YouTube videos & ChatGPT.
+The goal is to build strong problem-solving skills, master Java fundamentals, and become confident in DSA through daily consistent practice.
 
 ## 📌 Challenge Rules
 
 - Code every day for 100 days without breaks
 
-- Practice Python concepts + DSA problems daily
+- Practice Java concepts + DSA problems daily
 
 - Push code and updates to GitHub regularly
 
@@ -15,7 +15,7 @@ The goal is to build strong problem-solving skills, master Python fundamentals, 
 
 ## 🛠️ Tech Stack
 
-- Language: Python
+- Language: Java 
 
 - IDE: VS Code
 
@@ -23,7 +23,7 @@ The goal is to build strong problem-solving skills, master Python fundamentals, 
 
 ## 🧠 What I Will Learn
 
-- Python Fundamentals
+- Java Fundamentals
 
 - Object-Oriented Programming (OOP)
 
@@ -36,8 +36,7 @@ The goal is to build strong problem-solving skills, master Python fundamentals, 
 - Interview Preparation
 
 ## 📅 RoadMap
-  🟢 Phase 1: Python Fundamentals (Day 1–20)
+  🟢 Phase 1: Java Fundamentals (Day 1–20)
 
-♦ Day 1: Python – Purpose, History, Features, Architecture
-(Created by Guido van Rossum)
+♦ Day 1: Introduction to programming,Introduction to Java
 
