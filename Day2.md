@@ -7,6 +7,7 @@
 - Click java downloads
 - There are so many java versions are available in the java archieve
 - you can download the any java version according to  learning or developing enterprise applications or click download java is download the latest version of java
+  
     🔹For software developers - JDK
   
     🔹For adminstrators running application on a server - server JRE
