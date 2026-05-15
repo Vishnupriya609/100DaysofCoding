@@ -8,7 +8,9 @@
 - There are so many java versions are available in the java archieve
 - you can download the any java version according to  learning or developing enterprise applications or click download java is download the latest version of java
     🔹For software developers - JDK
+  
     🔹For adminstrators running application on a server - server JRE
+  
     🔹For Java to run desktop applications - JRE   
 - After the downloaded the jdk as the particular version as well as choose .exe file
  #### Example : I choose jdk 21 because it is LTS verson and has a lot of modern features
@@ -25,9 +27,9 @@
 - open cmd type javac to compile & run java applications
 
 # About java versions
-## Before java 11 we need to download & install Both the jdk + jre individually available 
-## After java 11 include jre by default in jdk
-## Note : Architecture are changed before & after
+### Before java 11 we need to download & install Both the jdk + jre individually available 
+### After java 11 include jre by default in jdk
+### Note : Architecture are changed before & after
 
 ## Understand the terms LTS and Non-LTS
 ### In Java, LTS and Non-LTS refer to how long a Java version gets support and updates.
