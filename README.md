@@ -44,3 +44,6 @@ The goal is to build strong problem-solving skills, master Java fundamentals, an
 
 ♦ Day 3: Tools, writing & executing our first program using notepad & cmd
 
+♦ Day 4: Download & getting started with Eclipse ide
+
+
