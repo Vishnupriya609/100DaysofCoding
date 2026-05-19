@@ -25,13 +25,16 @@
    ### For folder command
     ```
     cd JavaPractice
+    
     ```
     ### for compilation java program - create .class file & also shows erros
     ```
     javac Test.java
+    
     ```
     ### for execution - shows output
     ```
-    java Tet
+    java Test
+    
     ```
     
