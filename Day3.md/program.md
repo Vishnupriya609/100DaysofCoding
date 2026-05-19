@@ -27,12 +27,12 @@
     cd JavaPractice
     
     ```
-    ### for compilation java program - create .class file & also shows erros
+  ### for compilation java program - create .class file & also shows erros
     ```
     javac Test.java
     
     ```
-    ### for execution - shows output
+  ### for execution - shows output
     ```
     java Test
     
