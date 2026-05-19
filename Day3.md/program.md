@@ -6,12 +6,12 @@
 -  without main method java program doesn't execute
 -  java is K-senstive
   ---
-  class Test {
-        public static void main (String [] args){
-                      System.out.println("HelloWorld");
-                  }
-          }
-   ---
+ public class HelloWorld {
+    public static void main(String[] args) {
+        System.out.println("Hello, World!");
+    }
+}
+ ---
 
   - save the file with ** Test.java **
   - now cmd acts as console temporarily
