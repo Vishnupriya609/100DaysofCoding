@@ -42,3 +42,5 @@ The goal is to build strong problem-solving skills, master Java fundamentals, an
 
 ♦ Day 2: Download and about java versions
 
+♦ Day 3: Tools, writing & executing our first program using notepad & cmd
+
