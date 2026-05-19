@@ -15,4 +15,23 @@
 
   - save the file with ** Test.java **
   - now cmd acts as console temporarily
-  - For any 
+  - For any java file first compiler generate the byte code is **.class file** .This file used for execution
+  - First Navigate to same file location
+  - for navigating to drive
+  - command
+    ```
+    D:
+    ```
+   ### For folder command
+    ```
+    cd JavaPractice
+    ```
+    ### for compilation java program - create .class file & also shows erros
+    ```
+    javac Test.java
+    ```
+    ### for execution - shows output
+    ```
+    java Tet
+    ```
+    
