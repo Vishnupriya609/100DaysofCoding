@@ -48,4 +48,7 @@ The goal is to build strong problem-solving skills, master Java fundamentals, an
 
 ♦ Day 5: Packages in java
 
+♦ Day 6: Class in java
+
+
 
