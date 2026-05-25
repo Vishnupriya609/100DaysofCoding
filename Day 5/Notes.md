@@ -11,3 +11,12 @@
 - pacakge name create as folder com as one folder inside example folder inside project name file
 - we can create same filenames with different packages.
 - e.g.: package name is com.learnjava  create class in it.
+
+## Types 
+### Built-in packages : These are already provided by Java.
+- java.lang
+- java.util
+- java.io
+### user-defined packages : Packages created by programmers/users
+- learnjava
+- com.myntra etc..
