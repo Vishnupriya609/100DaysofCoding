@@ -50,5 +50,8 @@ The goal is to build strong problem-solving skills, master Java fundamentals, an
 
 ♦ Day 6: Class in java
 
+♦ Day 7: Datatypes in java
+
+
 
 
