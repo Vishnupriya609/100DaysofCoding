@@ -46,4 +46,6 @@ The goal is to build strong problem-solving skills, master Java fundamentals, an
 
 ♦ Day 4: Download & getting started with Eclipse ide
 
+♦ Day 5: Packages in java
+
 
