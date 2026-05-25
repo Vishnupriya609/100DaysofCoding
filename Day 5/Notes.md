@@ -10,3 +10,4 @@
 - e.g : com.example.projectname
 - pacakge name create as folder com as one folder inside example folder inside project name file
 - we can create same filenames with different packages.
+- e.g.: package name is com.learnjava  create class in it.
