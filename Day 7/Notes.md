@@ -22,6 +22,8 @@
 
 ## Size & Range of data types 
 
-Mathematical calculation 
+### Mathematical Calculation
+#### Formula : for a type with n bits ,the range is **−2(n−1) to 2(n−1)−1**
+
 <img width="650" height="450" alt="image" src="https://github.com/user-attachments/assets/ae4dfad1-d14c-402d-a232-c2f3da2ad43d" />
 
