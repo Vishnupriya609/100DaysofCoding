@@ -13,7 +13,7 @@
 }
  ```
 
-  - save the file with ** Test.java **
+  - save the file with **Test.java**
   - now cmd acts as console temporarily
   - For any java file first compiler generate the byte code is **.class file** .This file used for execution
   - First Navigate to same file location
