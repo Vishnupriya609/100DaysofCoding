@@ -3,7 +3,10 @@
 ### A package is a container which can seggragate files in a java project.
 - Avoiding name conflicts
 - you can organize related classes  & interfaces
-- click the New ---> Package ---> package Name starts with a lowercase letter.
+## Create package
+- click the New ---> Package ---> package Name
+## Rules
+- starts with a lowercase letter.
 - package name cannot start or end with a (.) dot
 - Must avoid start or end with a blank
 - Reverse Domain Notation : start with your organization's inversed internet domain name
