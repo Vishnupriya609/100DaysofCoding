@@ -7,3 +7,21 @@
 - Non - primitive data types
  
 <img width="800" height="510" alt="image" src="https://github.com/user-attachments/assets/7c39e20f-9530-4af5-ba27-0043b730db1b" />
+
+
+## Computer memory units
+- bit - binary digit
+- Nibble - 4 bits
+- byte  - 8 bits
+- Kilobyte - 1024 bytes
+- Megabyte - 1024 kb
+- Giga byte - 1024 mb  (Ram & Storage)
+- Terabyte - 1024 gb (Hard disk)
+- petabyte - 1024 tb (Data centres)
+
+
+## Size & Range of data types 
+
+Mathematical calculation 
+<img width="650" height="450" alt="image" src="https://github.com/user-attachments/assets/ae4dfad1-d14c-402d-a232-c2f3da2ad43d" />
+
