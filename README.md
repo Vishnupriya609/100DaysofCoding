@@ -54,6 +54,10 @@ The goal is to build strong problem-solving skills, master Java fundamentals, an
 
 ♦ Day 8: Variables & types
 
+♦ Day 9: Methods
+
+♦ Day 10: Print Statements
+
 
 
 
