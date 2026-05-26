@@ -1,5 +1,13 @@
 # Print Statements
 ## print() statements are used in programming to display output to the console or terminal.Output color supports *Red,Black* System.err.println();
+
+| Feature | System.out.println  | System.err.println        |
+| ------- | ------------------- | ------------------------- |
+| Stream  | Standard output     | Standard error            |
+| Purpose | Normal messages     | Error messages            |
+| Color   | Usually white/black | Often red (IDE dependent) |
+| Order   | Buffered            | May print immediately     |
+
 ## Common Uses
 - Debugging code
 - Showing program results
