@@ -1,5 +1,6 @@
 # Print Statements
-## print() statements are used in programming to display output to the console or terminal.Output color supports *Red,Black* System.err.println();
+## print() statements are used in programming to display output to the console or terminal.Output color supports *Red,Black*
+## Differences between the System.out.println() & System.err.println().
 
 | Feature | System.out.println  | System.err.println        |
 | ------- | ------------------- | ------------------------- |
