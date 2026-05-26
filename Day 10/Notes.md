@@ -7,5 +7,7 @@
 - Logging execution flow
 ## In Java, we use System.out.println() or System.out.print() to display output.
 🔹 1. print() : Prints output in the same line
+
 🔹 2. println() : Prints output and moves to next line
+
 🔹 3. printf() : Used for formatted output
