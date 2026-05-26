@@ -12,6 +12,28 @@
 
 ### Example: int number; ---> Define   , int number = 50; ---> Initialization
 
+
+## Rules
+
+1. Variable names can use letters, numbers, `_`, and `$`.
+
+2. Variable names cannot start with a number.
+
+3. Spaces are not allowed in variable names.
+
+4. Java keywords cannot be used as variable names.
+
+5. Variable names are case-sensitive.
+
+6. Variables should have meaningful names.
+
+7. Java commonly uses camelCase naming style.
+
+8. Every variable must have a data type.
+
+9. Local variables must be initialized before use.
+
+
                
 ## Types of Variables
 ### Instance Variables (Non-static Fields) : An instance variable is a variable that belongs to an object of a class.
