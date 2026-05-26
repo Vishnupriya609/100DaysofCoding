@@ -31,7 +31,7 @@
 ## Common point
 ### Instance variables and class variables are global variables because they are declared inside the class and outside the methods.
 
-###<span style="color:red">Local Variables</span> :A local variable is a variable declared inside a method, constructor, or block.
+<span style="color:red">Local Variables</span> ### :A local variable is a variable declared inside a method, constructor, or block.
 
 ### It can be used only inside that method/block.
 
