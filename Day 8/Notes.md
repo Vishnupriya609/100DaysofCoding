@@ -4,7 +4,7 @@
 
 ### Variable is a container which holds the value to access while java program is executed 
 
-###                    (OR)
+###                <h3 align="center>(OR)</h3>
 
 ### Variable are store the information or to present like dog properties are color,breed,height,weight etc...
 
