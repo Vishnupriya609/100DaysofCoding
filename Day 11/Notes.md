@@ -71,12 +71,14 @@
 
 ### Truth Table
 
+
 | A     | B     | A && B (AND) | A || B (OR) |
 | ----- | ----- | ------------ | ----------- |
 | true  | true  | true         | true        |
 | true  | false | false        | true        |
 | false | true  | false        | true        |
 | false | false | false        | false       |
+
 
 
 ### NOT Operator Table
