@@ -69,6 +69,7 @@
 
 ### Truth Table
 
+
 | A       | B       | A && B  | A || B  |
 | ------- | ------- | ------- | ------- |
 | `true`  | `true`  | `true`  | `true`  |
