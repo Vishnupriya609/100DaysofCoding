@@ -77,6 +77,7 @@
 | false | true  | false  | true   |
 | false | false | false  | false  |
 
+
 ### NOT Operator Table
 
 | A       | !A      |
