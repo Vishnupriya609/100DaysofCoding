@@ -12,4 +12,13 @@
 | `%`         | Modulus (remainder) | `10 % 3` | `1`    |
 | `**` or `^` | Exponent (power)    | `2 ** 3` | `8`    |
 
-## Unary Operator :
+## Unary Operator : A unary operator is an operator that works with only one operand (value/variable).
+
+| Operator | Meaning     | Example        |
+| -------- | ----------- | -------------- |
+| `+`      | Unary plus  | `+a`           |
+| `-`      | Unary minus | `-a`           |
+| `++`     | Increment   | `a++` or `++a` |
+| `--`     | Decrement   | `a--` or `--a` |
+| `!`      | Logical NOT | `!true`        |
+
