@@ -102,3 +102,11 @@ condition ? true_value : false_value;
 
 ## Bitwise Operators : Bitwise operators work on the binary (0 and 1) representation of numbers. They are used for low-level programming, performance optimization, and memory-efficient operations.
 <img width="1440" height="974" alt="image" src="https://github.com/user-attachments/assets/6044cac9-8499-4b1a-8d34-734128dde1ab" />
+### Bitwise complement : The bitwise complement operator is also called the NOT operator. It flips every bit of a number.
+
+###🔹 Why result becomes negative?
+#### Java uses 2’s complement representation for negative numbers.
+#### Formula :
+---
+~n = -(n + 1)
+---
