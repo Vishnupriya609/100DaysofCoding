@@ -105,9 +105,26 @@ condition ? true_value : false_value;
 
 ### Bitwise complement : The bitwise complement operator is also called the NOT operator. It flips every bit of a number.
 
-###🔹 Why result becomes negative?
+### Why result becomes negative?
 #### Java uses 2’s complement representation for negative numbers.
 #### Formula :
 ```
 ~n = -(n + 1)
+```
+
+### Bitwise operators for negative numbers 
+#### In Java, negative numbers are stored using 2’s complement representation, not directly as “minus sign + value”. That’s why bitwise operations behave a bit differently for negatives.
+### 1. How negative numbers are stored
+#### Example: -5
+#### Step 1: Take +5 in binary (8-bit)
+```
+5  = 0000 0101
+```
+#### Step 2: 1’s complement (flip bits)
+```
+1111 1010
+```
+#### Step 3: Add 1 (2’s complement)
+```
+1111 1011  → this is -5
 ```
