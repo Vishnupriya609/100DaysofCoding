@@ -10,7 +10,7 @@
 | `*`         | Multiplication      | `6 * 2`  | `12`   |
 | `/`         | Division            | `10 / 2` | `5`    |
 | `%`         | Modulus (remainder) | `10 % 3` | `1`    |
-| `**` or `^` | Exponent (power)    | `2 ** 3` | `8`    |
+
 
 ## Unary Operator : A unary operator is an operator that works with only one operand (value/variable).
 
