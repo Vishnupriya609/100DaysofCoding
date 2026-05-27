@@ -58,6 +58,11 @@ The goal is to build strong problem-solving skills, master Java fundamentals, an
 
 ♦ Day 10: Print Statements
 
+♦ Day 11: Operators
+
+♦ Day 12: User Input
+
+
 
 
 
