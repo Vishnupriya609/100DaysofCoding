@@ -40,14 +40,16 @@
 
 - true
 - false
-| Operator | Meaning                  | Example  |
-| -------- | ------------------------ | -------- |
-| `==`     | Equal to                 | `a == b` |
-| `!=`     | Not equal to             | `a != b` |
-| `>`      | Greater than             | `a > b`  |
-| `<`      | Less than                | `a < b`  |
-| `>=`     | Greater than or equal to | `a >= b` |
-| `<=`     | Less than or equal to    | `a <= b` |
+
+| Operator | Name                     | Meaning                        | Example  | Result |
+| -------- | ------------------------ | ------------------------------ | -------- | ------ |
+| `==`     | Equal to                 | Checks if two values are equal | `5 == 5` | true   |
+| `!=`     | Not equal to             | Checks if values are not equal | `5 != 3` | true   |
+| `>`      | Greater than             | Checks if left is greater      | `7 > 4`  | true   |
+| `<`      | Less than                | Checks if left is smaller      | `3 < 8`  | true   |
+| `>=`     | Greater than or equal to | Checks greater or equal        | `5 >= 5` | true   |
+| `<=`     | Less than or equal to    | Checks smaller or equal        | `4 <= 6` | true   |
+
 
 ### Important
 | Symbol | Meaning             |
