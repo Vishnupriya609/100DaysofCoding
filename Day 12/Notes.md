@@ -2,7 +2,7 @@
 ## User input means taking data from the user through the keyboard during program execution.
 1. Using Scanner Class
    
-2.Using BufferedReader
+ 2.Using BufferedReader
 
 3. Multiple Inputs in One Line
 
