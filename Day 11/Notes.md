@@ -99,3 +99,15 @@
 ---
 condition ? true_value : false_value;
 ---
+
+## Bitwise Operator : 
+
+| Operator | Name                 | Description                                                | Example                                       |     |                      |
+| -------- | -------------------- | ---------------------------------------------------------- | --------------------------------------------- | --- | -------------------- |
+| `&`      | Bitwise AND          | Copies bit if it exists in **both operands**               | `(A & B)` → `12` → `0000 1100`                |     |                      |
+| `        | `                    | Bitwise OR                                                 | Copies bit if it exists in **either operand** | `(A | B)`→`61`→`0011 1101` |
+| `^`      | Bitwise XOR          | Copies bit if it exists in **one operand only (not both)** | `(A ^ B)` → `49` → `0011 0001`                |     |                      |
+| `~`      | Bitwise Complement   | Flips all bits (0 ↔ 1), unary operator                     | `(~A)` → `-61` → `1100 0011 (2’s complement)` |     |                      |
+| `<<`     | Left Shift           | Shifts bits left, fills with 0 (×2 per shift)              | `A << 2` → `240` → `1111 0000`                |     |                      |
+| `>>`     | Right Shift          | Shifts bits right, preserves sign bit                      | `A >> 2` → `15` → `0000 1111`                 |     |                      |
+| `>>>`    | Unsigned Right Shift | Shifts right and fills with **0 always**                   | `A >>> 2` → `15` → `0000 1111`                |     |                      |
