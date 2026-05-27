@@ -107,6 +107,6 @@ condition ? true_value : false_value;
 ###🔹 Why result becomes negative?
 #### Java uses 2’s complement representation for negative numbers.
 #### Formula :
----
+```
 ~n = -(n + 1)
----
+```
