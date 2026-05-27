@@ -71,7 +71,6 @@
 
 ### Truth Table
 
-
 | A     | B     | A && B (AND) | A || B (OR) |
 | ----- | ----- | ------------ | ----------- |
 | true  | true  | true         | true        |
