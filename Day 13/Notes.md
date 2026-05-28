@@ -1,6 +1,6 @@
 # Decision Making Statements 
 ## Decision-making statements are statements used in programming and logic to control the flow of execution based on conditions. They are also known as **selection statements** or **conditional statements**.
-1.if statement : Executes a block of code when the condition is true.
+**1.if statement : Executes a block of code when the condition is true.**
 ## Syntax
 ```
 if(condition) {
@@ -9,7 +9,7 @@ if(condition) {
 
 }
 ```
-2.if-else statement : Executes one block if the condition is true and another block if false.
+**2.if-else statement : Executes one block if the condition is true and another block if false.**
 ## Syntax
 ```
 if(condition) {
@@ -23,7 +23,7 @@ else {
 
 }
 ```
-3.if-else-if ladder : An `if-else-if` statement checks multiple conditions one by one and executes the block of code whose condition is true.
+**3.if-else-if ladder : An `if-else-if` statement checks multiple conditions one by one and executes the block of code whose condition is true.**
 ## Syntax
 ```
 if(condition1) {
@@ -47,7 +47,7 @@ else {
 
 }
 ```
-4.Nested if statement : A nested if statement is an if statement placed inside another if statement.It is used to check multiple conditions step by step.
+**4.Nested if statement : A nested if statement is an if statement placed inside another if statement.It is used to check multiple conditions step by step.**
 ## Syntax
 ```
 if(condition1) {
@@ -61,7 +61,7 @@ if(condition1) {
     }
 }
 ```
-5.switch statement : A switch statement is used to execute one block of code among many options based on the matching case value.
+**5.switch statement : A switch statement is used to execute one block of code among many options based on the matching case value.**
 ## Syntax 
 ```
 switch(expression) {
