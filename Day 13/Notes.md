@@ -68,6 +68,7 @@ It is used to execute one block of code among many options based on the matching
 
 ## In a switch statement, break stops the execution after the matching case.
 *If break is not used, execution continues to the next cases. This is called fall-through.*
+*the equality operator == is used indirectly*
 ## Syntax 
 ```
 switch(expression) {
