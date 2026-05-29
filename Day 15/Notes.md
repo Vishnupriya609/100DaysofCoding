@@ -19,7 +19,7 @@ ClassName objName = new ClassName();
 
 ### In Java and similar languages:
 
-###  Even if two objects have the same values, they are still different objects in memory.
+###  Even if two objects have the same values, they are still different objects in memory.A hashCode is a unique integer value (number) generated for an object by Java.*hashCode = a number that represents an object’s identity in memory*
 
 ### Example:
 ```
@@ -28,3 +28,14 @@ Student s2 = new Student();
 ```
 ✔ s1 and s2 are two different objects
 ✔ They have separate memory locations
+
+## If I create another class in the same package, how can I call methods/variables from one class to another, and will I get output?
+### Yes — in the same package, you can access members based on access type.
+### Important Rule (Same Package)
+### You can access:
+| Access type           | Same package |
+| --------------------- | ------------ |
+| public                | ✔ Yes        |
+| default (no modifier) | ✔ Yes        |
+| private               | ❌ No         |
+
