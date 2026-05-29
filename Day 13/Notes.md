@@ -61,7 +61,13 @@ if(condition1) {
     }
 }
 ```
-**5.switch statement : A switch statement is used to execute one block of code among many options based on the matching case value.**
+**5.switch statement : A switch statement is a value-based conditional statement.
+It is used to execute one block of code among many options based on the matching case value.**
+**Using Break Keyword**
+## The break keyword is used to terminate the current block or loop immediately in Java.
+
+## In a switch statement, break stops the execution after the matching case.
+*If break is not used, execution continues to the next cases. This is called fall-through.*
 ## Syntax 
 ```
 switch(expression) {
