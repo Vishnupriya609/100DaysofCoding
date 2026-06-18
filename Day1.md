@@ -26,7 +26,7 @@
 ## 2️⃣ Who is invented and when it was invented?
 
 - James Gosling is inventor of Java
-- It was invwnted i 1991 but the first version of java is released in 1996 by sun microsystems.
+- It was invented in 1991 but the first version of java is released in 1996 by sun microsystems.
 - Later it is being maintained by Oracle corporation.
 - first named it "Oak" and later named it as "Java"
 
