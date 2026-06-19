@@ -38,7 +38,7 @@ The goal is to build strong problem-solving skills, master Java fundamentals, an
 ## 📅 RoadMap
   🟢 Phase 1: Java Fundamentals (Day 1–20)
 
-♦ Day 1: Introduction to programming,Introduction to Java
+♦ Day 1: [Introduction to programming,Introduction to Java](https://github.com/Vishnupriya609/100DaysofCoding/blob/main/Day1.md)
 
 ♦ Day 2: Download and about java versions
 
