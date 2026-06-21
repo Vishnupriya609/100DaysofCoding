@@ -1,6 +1,6 @@
 # Download the java
-### For conversion of particular language we need related software 
-### Example: for java is  JDK software,for python  Iis IDLE 
+ For conversion of particular language we need related software 
+Example: for java is  JDK software,for python  Iis IDLE 
 
 ## How to download java software?
 - From oracle software
@@ -15,7 +15,7 @@
   
     🔹For Java to run desktop applications - JRE   
 - After the downloaded the jdk as the particular version as well as choose .exe file
- #### Example : I choose jdk 21 because it is LTS verson and has a lot of modern features
+  Example : I choose jdk 21 because it is LTS verson and has a lot of modern features
 - Open the cmd type the command javac then it gives the java is not recognized to run java programs we need to set up the path
 - Two types of set up path variables 1️⃣ Permanently
                                      2️⃣ Temporarily
@@ -29,12 +29,12 @@
 - open cmd type javac to compile & run java applications
 
 # About java versions
-### Before java 11 we need to download & install Both the jdk + jre individually available 
-### After java 11 include jre by default in jdk
-### Note : Architecture are changed before & after
+Before java 11 we need to download & install Both the jdk + jre individually available 
+ After java 11 include jre by default in jdk
+Note : Architecture are changed before & after
 
 ## Understand the terms LTS and Non-LTS
-### In Java, LTS and Non-LTS refer to how long a Java version gets support and updates.
+In Java, LTS and Non-LTS refer to how long a Java version gets support and updates.
 ### LTS (Long-Term Support)
 - Supported for many years
 - More stable for real projects and companies
