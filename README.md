@@ -46,7 +46,7 @@ The goal is to build strong problem-solving skills, master Java fundamentals, an
 
 ♦ Day 4: [Download & getting started with Eclipse ide](https://github.com/Vishnupriya609/100DaysofCoding/tree/main/Day4)
 
-♦ Day 5: Packages in java
+♦ Day 5: [Packages in java](https://github.com/Vishnupriya609/100DaysofCoding/tree/main/Day%205)
 
 ♦ Day 6: Class in java
 
