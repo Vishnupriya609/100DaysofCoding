@@ -44,7 +44,7 @@ The goal is to build strong problem-solving skills, master Java fundamentals, an
 
 ♦ Day 3: [Tools, writing & executing our first program using notepad & cmd](https://github.com/Vishnupriya609/100DaysofCoding/tree/main/Day3.md)
 
-♦ Day 4: Download & getting started with Eclipse ide
+♦ Day 4: [Download & getting started with Eclipse ide](https://github.com/Vishnupriya609/100DaysofCoding/tree/main/Day4)
 
 ♦ Day 5: Packages in java
 
