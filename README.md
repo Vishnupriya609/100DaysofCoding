@@ -40,7 +40,7 @@ The goal is to build strong problem-solving skills, master Java fundamentals, an
 
 ♦ Day 1: [Introduction to programming,Introduction to Java](https://github.com/Vishnupriya609/100DaysofCoding/blob/main/Day1.md)
 
-♦ Day 2: Download and about java versions
+♦ Day 2: [Download and about java versions](https://github.com/Vishnupriya609/100DaysofCoding/blob/main/Day2.md)
 
 ♦ Day 3: Tools, writing & executing our first program using notepad & cmd
 
