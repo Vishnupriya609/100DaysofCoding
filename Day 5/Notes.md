@@ -1,6 +1,6 @@
 # packages in java
 ## what is package?
-### A package is a container which can seggragate files in a java project.
+A package is a container which can seggragate files in a java project.
 - Avoiding name conflicts
 - you can organize related classes  & interfaces
 ## Create package
