@@ -50,7 +50,7 @@ The goal is to build strong problem-solving skills, master Java fundamentals, an
 
 ♦ Day 6: [Class in java](https://github.com/Vishnupriya609/100DaysofCoding/tree/main/Day%206)
 
-♦ Day 7: Datatypes in java
+♦ Day 7: [Datatypes in java](https://github.com/Vishnupriya609/100DaysofCoding/blob/main/Day%207/Notes.md)
 
 ♦ Day 8: Variables & types
 
