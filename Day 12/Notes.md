@@ -7,7 +7,7 @@
 3. Multiple Inputs in One Line
 
 ## Using Scanner Class 
-### The Scanner class is used to take input from the user in Java. We create an object of the Scanner class, and it reads input from the input stream System.in. It is present in the java.util package.
+The Scanner class is used to take input from the user in Java. We create an object of the Scanner class, and it reads input from the input stream System.in. It is present in the java.util package.
 
 ## User Input Types
 
@@ -47,3 +47,7 @@ char ch = sc.next().charAt(0);
 ````
 boolean flag = sc.nextBoolean();
 ````
+Why??
+```
+scan.nextLine();      // Consume the leftover newline
+```
