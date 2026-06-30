@@ -34,29 +34,38 @@
 9. Local variables must be initialized before use.
 
 
-               
-## Types of Variables
-### Instance Variables (Non-static Fields) : An instance variable is a variable that belongs to an object of a class.
+## Types of Variables in Java
 
-### It is declared:
+1. **Local Variable**
 
-- inside the class
-- outside the methods
+   * Declared inside a method, constructor, or block.
+   * Accessible only within that method or block.
+   * Must be initialized before use.
 
-### class Variables (Static Fields) : A class variable is a variable shared by all objects of a class.
+2. **Instance Variable**
 
-### It is declared:
+   * Declared inside a class but outside methods.
+   * Belongs to an object.
+   * Each object has its own copy.
 
-- inside the class
-- outside the methods
-- using the static keyword
-## Common point
-### Instance variables and class variables are global variables because they are declared inside the class and outside the methods.
+3. **Static Variable (Class Variable)**
 
-<span style="color:red">Local Variables</span> :A local variable is a variable declared inside a method, constructor, or block.
+   * Declared with the `static` keyword.
+   * Belongs to the class, not to individual objects.
+   * Shared by all objects of the class.
 
-### It can be used only inside that method/block.
+4. **Parameter Variable**
 
-parameters variables :A parameter is a variable passed to a method.
+   * Declared in a method or constructor parameter list.
+   * Receives values (arguments) when the method or constructor is called.
+   * Exists only during the execution of that method or constructor.
 
-It receives values when the method is called.
+### Summary Table
+
+| Variable Type      | Declared In                     | Scope                          |
+| ------------------ | ------------------------------- | ------------------------------ |
+| Local Variable     | Inside a method/block           | Within the method/block        |
+| Instance Variable  | Inside a class, outside methods | Per object                     |
+| Static Variable    | Inside a class with `static`    | Shared by all objects          |
+| Parameter Variable | Method/constructor parameters   | Within that method/constructor |
+
